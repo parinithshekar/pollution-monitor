@@ -1,0 +1,17 @@
+.home {
+  background-color: #2f3542;
+  height: 100vh;
+}
+
+.container {
+  padding: 6rem;
+}
+
+.chart {
+  background-color: #fc6c6c;
+  width: 70%;
+  height: fit-content;
+  padding: 2rem;
+  margin: 0 auto;
+  border-radius: 5px;
+}
