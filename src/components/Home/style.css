@@ -1,0 +1,33 @@
+.screen {
+  width: 80vw;
+  height: 100vh;
+  background-color: #0c2461;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  color: white;
+}
+
+.middle-card {
+  /* border: dashed white 1px; */
+  position: relative;
+}
+
+#title {
+  font-size: 10rem;
+}
+
+#subtitle {
+  position: absolute;
+  font-size: 2rem;
+
+  right: -2rem;
+  bottom: 3rem;
+}
+
+.greendot {
+  color: chartreuse;
+}

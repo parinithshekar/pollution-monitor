@@ -1,0 +1,26 @@
+.screen {
+  width: 80vw;
+  height: 100vh;
+  background-color: #0c2461;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  color: white;
+}
+
+#message {
+  font-size: 4rem;
+}
+
+#email {
+  font-size: 2rem;
+  color: white;
+}
+
+#email:hover {
+  font-size: 2rem;
+  color: chartreuse;
+}

@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import * as firebase from "firebase/app";
 import "firebase/auth";
 import "firebase/database";
-import * as moment from "moment";
-import "./home.css";
+// import * as moment from "moment";
+import "./chart.css";
 import { Line } from "react-chartjs-2";
 
 export default class Home extends Component {
