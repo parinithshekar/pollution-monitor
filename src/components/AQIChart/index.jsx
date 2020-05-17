@@ -19,7 +19,7 @@ export default () => {
           Visit{" "}
           <a
             id="link"
-            href="http://www.indiaenvironmentportal.org.in/files/file/Air%20Quality%20Index.pdf"
+            href="https://forum.airnowtech.org/t/the-aqi-equation/169"
           >
             this link
           </a>{" "}

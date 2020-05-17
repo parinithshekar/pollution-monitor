@@ -1,0 +1,50 @@
+.graph-screen {
+  height: calc(100vh - 10vh - 15px);
+  padding: 5vh 0;
+}
+
+.container {
+  width: 65vw;
+  margin: 0 auto;
+}
+
+.chart {
+  /* background-color: #fd79a8; */
+  background-color: #4a69bd;
+  width: 100%;
+  height: fit-content;
+  padding: 2rem;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.numerical-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: space-around;
+  padding: 3vh;
+}
+
+.aqi-class {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.reading-heading {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.reading-value {
+  font-size: 5rem;
+  font-weight: 600;
+}
+
+.reading-time {
+  font-size: 1rem;
+}
+
+.future-prediction .reading-value {
+  color: chartreuse;
+}

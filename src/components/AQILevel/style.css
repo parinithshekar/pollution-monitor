@@ -1,0 +1,18 @@
+.aqilevel-screen {
+  width: calc(80vw - 6vw);
+  height: calc(100vh - 10vh);
+  background-color: #0c2461;
+
+  padding: 5vh 3vw;
+
+  color: white;
+}
+
+#dropdown {
+  width: fit-content;
+}
+
+select {
+  height: 15px;
+  width: 200px;
+}
