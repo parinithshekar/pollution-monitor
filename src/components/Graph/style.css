@@ -1,5 +1,5 @@
 .graph-screen {
-  height: calc(100vh - 10vh - 15px);
+  height: calc(100vh - 10vh - 15px - 6vh);
   padding: 5vh 0;
 }
 
@@ -29,7 +29,7 @@
 .aqi-class {
   font-size: 1.5rem;
   font-weight: 700;
-  white-space: pre-line;
+  /* white-space: pre-line; */
 }
 
 .reading-heading {
