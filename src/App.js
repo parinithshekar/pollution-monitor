@@ -14,9 +14,6 @@ function App() {
       <Route path="/level" component={AQI_Level}></Route>
       <Route path="/chart" component={AQIChart}></Route>
       <Route path="/faq" component={FAQ}></Route>
-      <Route path="/" exact>
-        404 not found
-      </Route>
     </BrowserRouter>
   );
 }

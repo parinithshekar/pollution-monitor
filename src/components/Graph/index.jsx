@@ -10,6 +10,8 @@ export default class extends Component {
     selectedView: this.props.selectedView,
     chartData: {},
     chartOptions: {
+      maintainAspectRatio: false,
+      responsive: true,
       legend: {
         labels: {
           fontColor: "black",

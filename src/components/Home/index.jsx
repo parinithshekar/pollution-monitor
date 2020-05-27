@@ -7,9 +7,9 @@ export default class Home extends Component {
       <div className="screen">
         <div className="middle-card">
           <h1 id="title">
-            Simple is best<span className="greendot">.</span>
+            Pollution predictor<span className="greendot">.</span>
           </h1>
-          <h2 id="subtitle">My ass</h2>
+          <h2 id="subtitle">For better air quality</h2>
         </div>
       </div>
     );
